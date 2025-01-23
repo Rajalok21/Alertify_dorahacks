@@ -46,7 +46,7 @@ It identifies the source of sound from audio data  and that audio content will b
 It integrates real time data from trusted platforms like Windy and USGC Maps, alongwith analyzing satellite imagery, terrain and weather information using geospatial tools for verification and data authenciation to support disaster response teams in monitoring, assessing, and responding to emergencies.
 
 ![Project Logo](./img/2.png)
-![Project Logo](./img/3.png)
+![Project Logo](./img/new.png)
 ### 5. SOS System:
 It will allow individuals to send distress signals through multiple platforms, including mobile apps, SMS, social media (Twitter, Facebook), and even voice-activated commands  providing  real time location and emergency details , enabling disaster response agencies to send alerts and connect with nearby police stations, hospitals and coastal guards.
 
